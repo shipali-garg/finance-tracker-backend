@@ -20,7 +20,7 @@ Tech Used
 
 How to Run
 1.	Clone the repo
-git clone https://github.com/your-username/finance-tracker-backend.git
+git clone https://github.com/shipali-garg/finance-tracker-backend.git
 cd finance-tracker-backend
 2.	Create virtual environment
 python -m venv .venv
