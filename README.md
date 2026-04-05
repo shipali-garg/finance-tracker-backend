@@ -1,6 +1,6 @@
 Finance Tracker Backend
 
-Overview
+
 This is a backend system built using Django and Django REST Framework to manage financial transactions. 
 It allows users to store income/expense records and view summaries of their financial data.
 
